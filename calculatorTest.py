@@ -108,7 +108,7 @@ driver = webdriver.Chrome(service=service)
 driver.maximize_window()
 
 # Abrir pagina:
-driver.get("https://warenjsm29.github.io/Scientific_Caculator_v2/")
+driver.get("https://warenjsm29.github.io/Proyecto-Final-de-P3---Calculadora-Web/")
 
 # Esperamos que cargue bien la pagina:
 waitForCalculatorPage = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, "display")))
