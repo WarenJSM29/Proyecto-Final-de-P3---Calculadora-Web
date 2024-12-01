@@ -1,4 +1,4 @@
-# **Scientific Calculator v1.0**
+# **Calculadora Científica v1.0**
 
 ## **Descripción**
 Esta es una calculadora científica diseñada para realizar operaciones matemáticas básicas y avanzadas. Actualmente, algunas funcionalidades están implementadas, mientras que otras están en desarrollo. Este proyecto es ideal para quienes buscan explorar características avanzadas de una calculadora científica mientras contribuyen a su mejora.
